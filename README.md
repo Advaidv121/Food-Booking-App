@@ -31,7 +31,7 @@ To run the app, you will need the following:
 Follow these steps to install and run the app:
 
 1. Clone or download this repository to your local machine.
-2. Open the project folder and double-click on the `RestaurantBookingApp.xcodeproj` file to open it in Xcode.
+2. Open the project folder and open `advaidv pro.xcodeproj` as a project on Xcode.
 3. Select a simulator or a device from the scheme menu in the top left corner of Xcode.
 4. Click on the run button in the top left corner of Xcode or press Command-R to build and run the app.
 
